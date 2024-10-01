@@ -5,6 +5,7 @@ public class MainJavaBasics {
         System.out.println("Hello World");
         System.out.println("JOHN ROBERT B PARADIANG");
         System.out.println("Birth");
+        System.out.println("I`m a java developer");
 
     }
 }

@@ -11,7 +11,6 @@ public class MainPrimitive {
         short departmentCode = 101;
         System.out.println("short : " + departmentCode);
 
-
         char performanceGrade = 'C';
         System.out.println("char : " + performanceGrade);
 
